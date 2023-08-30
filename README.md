@@ -1,4 +1,4 @@
-### Hi there 👋 [Hire Me!](https://github.com/byteballet/byteballet/issues/new?title=I+want+to+hire+you&body=Hi,+@byteballet.%27Send+me+your+resume:+abc@xyz.com.)
+### Hi there 👋 [Hire Me!](https://github.com/byteballet/byteballet/issues/new?title=I+want+to+hire+you&body=Hi,+@byteballet.Send+me+your+resume:+your@companymail.com.)
 Professional full stack developer with a specialization in AI solution development.
 
 <a name="top"></a>
