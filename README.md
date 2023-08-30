@@ -1,19 +1,14 @@
 ### Hi there 👋
+Professional full stack developer with a specialization in AI solution development.
 
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
-
-Xs go first, click one of the nine boxes to make your move.
-
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
-
 [Take me to the bottom](#bottom)
 
 ---
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
-<a name="1"></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<a name="1"></a><br/><br/><br/>
 ✖️ [⬜](#10) [⬜](#11)<br/>[⬜](#12) ⭕ [⬜](#13)<br/>[⬜](#14) [⬜](#15) [⬜](#16)<br/><br/><br/><br/>
 <a name="2"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#17)<br/>[⬜](#18) [⬜](#19) [⬜](#20)<br/>[⬜](#21) [⬜](#22) [⬜](#23)<br/><br/><br/><br/>
