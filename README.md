@@ -1,5 +1,5 @@
 ### Hi there 👋
-Professional full stack developer with a specialization in AI solution development. [Hire Me!]([https://github.com/timburgan/timburgan/issues](https://github.com/timburgan/timburgan/issues/new?title=I want to hire you))
+Professional full stack developer with a specialization in AI solution development. [Hire Me!](https://github.com/byteballet/byteballet/issues/new?title=I+want+to+hire+you&body=Let+me+know+how+I+can+reach+you.)
 
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
