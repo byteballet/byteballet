@@ -2,7 +2,7 @@
 Professional full stack developer with a specialization in AI solution development.
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
+I invite you to a game of Tic-Tac-Toe. You will start with X.
 [Take me to the bottom](#bottom)
 
 ---
